@@ -1,0 +1,14 @@
+C:\Users\milic\Desktop\Zadatak2\Zadatak2\bin\Debug\Zadatak2.exe.config
+C:\Users\milic\Desktop\Zadatak2\Zadatak2\bin\Debug\Zadatak2.exe
+C:\Users\milic\Desktop\Zadatak2\Zadatak2\bin\Debug\Zadatak2.pdb
+C:\Users\milic\Desktop\Zadatak2\Zadatak2\obj\Debug\Zadatak2.csprojResolveAssemblyReference.cache
+C:\Users\milic\Desktop\Zadatak2\Zadatak2\obj\Debug\MainWindow.g.cs
+C:\Users\milic\Desktop\Zadatak2\Zadatak2\obj\Debug\App.g.cs
+C:\Users\milic\Desktop\Zadatak2\Zadatak2\obj\Debug\Zadatak2_MarkupCompile.cache
+C:\Users\milic\Desktop\Zadatak2\Zadatak2\obj\Debug\Zadatak2_MarkupCompile.lref
+C:\Users\milic\Desktop\Zadatak2\Zadatak2\obj\Debug\MainWindow.baml
+C:\Users\milic\Desktop\Zadatak2\Zadatak2\obj\Debug\Zadatak2.g.resources
+C:\Users\milic\Desktop\Zadatak2\Zadatak2\obj\Debug\Zadatak2.Properties.Resources.resources
+C:\Users\milic\Desktop\Zadatak2\Zadatak2\obj\Debug\Zadatak2.csproj.GenerateResource.Cache
+C:\Users\milic\Desktop\Zadatak2\Zadatak2\obj\Debug\Zadatak2.exe
+C:\Users\milic\Desktop\Zadatak2\Zadatak2\obj\Debug\Zadatak2.pdb
